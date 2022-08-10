@@ -1,5 +1,5 @@
 {
-    "name": "m6web/statsd-bundle",
+    "name": "brs/statsd-bundle",
     "description" : "Add statsd metrics in your symfony app. Allow you to bind metrics on any symfony event.",
     "type": "symfony-bundle",
     "license": "MIT",
